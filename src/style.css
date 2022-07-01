@@ -1,0 +1,52 @@
+.edit-image {
+    height: 25px;
+    margin-left: 0.3em;
+}
+
+.App {
+    width: 50%;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Header {
+    background-color: #124559;
+    color: white;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    font-size: 1.5em;
+}
+
+.btnRemove {
+    background-color: #e63946;
+    color: #f1faee;
+    border: none;
+    border-radius: 1em;
+    margin: .3em 0;
+    cursor: pointer;
+    font-size: 1.3em;
+}
+
+.btnAdd {
+    background-color: #4c956c;
+    color: #f1faee;
+    border: none;
+    border-radius: 1em;
+    margin: .3em 0;
+    cursor: pointer;
+    font-size: 1.3em;
+}
+
+.btnSubmit {
+    margin: 1em 0;
+    border: none;
+    color: #14213d;
+    background: #f1faee;
+    padding: 0.5em;
+    border-radius: .5em;
+    text-align: center;
+    cursor: pointer;
+}
